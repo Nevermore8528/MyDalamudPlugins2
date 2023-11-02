@@ -6,7 +6,7 @@
   "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
-  "DalamudApiLevel": 9,
+  "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
