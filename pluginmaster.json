@@ -9,7 +9,7 @@
         "AssemblyVersion": "3.1.0.7",
         "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 8,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/Nik-Potokar/XIVSlothCombo/main/res/plugin/xivslothcombo.png",
         "DownloadLinkInstall": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
